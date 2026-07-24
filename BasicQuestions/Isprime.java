@@ -19,7 +19,6 @@ public class Isprime {
         System.out.print("number is not prime");
      } 
         }
-    
-    }
-    
+    sc.close();
+    }  
 }
