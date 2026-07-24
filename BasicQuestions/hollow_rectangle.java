@@ -5,7 +5,7 @@ public class hollow_rectangle {
         for(int i=1;i<=rows;i++){
             for(int j=1;j<=col;j++){
                 if(i==1|| i==rows||j==1||j==col){
-                    System.out.print(" * ");
+                    System.out.print("* ");
                 }else{
                     System.out.print(" ");
                 }
