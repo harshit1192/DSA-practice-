@@ -1,5 +1,5 @@
 package BasicQuestions;
-import java.util.*;
+import java.util.Scanner;
 
 public class factorial {
     public static int fact(int n){
@@ -15,5 +15,6 @@ public class factorial {
         int n = sc.nextInt();
      System.out.print(fact(n));
      sc.close();
+
     }
 }
